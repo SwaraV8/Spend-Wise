@@ -25,3 +25,7 @@ budgets, transactions, and savings.
 This is a front-end demo. The information is sample content; forms and
 settings do not save or update data because the project does not use
 JavaScript or a backend.
+
+## Figma
+
+First we created a  prototype using figma. Here is the link for the prototype : https://www.figma.com/design/AOSFAp0zW8ah5FdV8DvJAX/Untitled?node-id=0-1&t=ut8ukWoH3hSXk3ay-1 
